@@ -1,2 +1,4 @@
 Public void launchGoogle(){}
 Public void sendKeys(){}
+public void extraction(){}
+public void storage(){}

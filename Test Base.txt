@@ -1,1 +1,2 @@
-WebDriver driver;
+public void setUp(){}
+public void quit(){}
